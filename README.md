@@ -1,6 +1,6 @@
 # Testing-Driven LeetCode (SDET Journey)
 
-這個專案記錄了我從 Google Vendor (Thread Certification) 轉職 **SDET (Software Development Engineer in Test)** 的進修歷程。
+這個專案記錄了我從 Thread Certification 測試員目標轉職 **SDET (Software Development Engineer in Test)** 的進修歷程。
 除了演算法邏輯，我更專注於 **單元測試 (Unit Testing)** 與 **程式碼品質**。
 
 ## 🎯 目標
